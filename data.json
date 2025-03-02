@@ -1,0 +1,138 @@
+[
+    {
+      "title": "Paris, France",
+      "d1": "Luxury Stay at Eiffel View",
+      "d2": "15 Mar - 20 Mar",
+      "d3": "₹15,000 per night",
+      "image": "https://images.pexels.com/photos/262978/pexels-photo-262978.jpeg"
+    },
+    {
+      "title": "New York, USA",
+      "d1": "Stay at Central Park Suites",
+      "d2": "5 Apr - 10 Apr",
+      "d3": "₹20,000 per night",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Barbieri_-_ViaSophia25668.jpg/640px-Barbieri_-_ViaSophia25668.jpg"
+    },
+    {
+      "title": "Dubai, UAE",
+      "d1": "Luxury Stay near Burj Khalifa",
+      "d2": "10 Jul - 15 Jul",
+      "d3": "₹12,500 per night",
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/88/be/20/caption.jpg?w=300&h=300&s=1"
+    },
+    {
+      "title": "London, UK",
+      "d1": "Stay at Thames Riverside",
+      "d2": "8 Jun - 13 Jun",
+      "d3": "₹18,000 per night",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIFzjhmjH4CWQmwoFjPuZuX5iYKLlVWF6Eiw&s"
+    },
+    {
+      "title": "Bali, Indonesia",
+      "d1": "Stay at Beachfront Villas",
+      "d2": "20 Aug - 25 Aug",
+      "d3": "₹8,000 per night",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqP8KMH1jydsJUcfGFiggLGPp857wIS4rT8A&s"
+    },
+    {
+      "title": "Sydney, Australia",
+      "d1": "Stay near Sydney Opera House",
+      "d2": "12 Sep - 17 Sep",
+      "d3": "₹14,500 per night",
+      "image": "https://mortonfoodservice.com/content/uploads/restaurant-patio-morton.png"
+    },
+    {
+      "title": "Tokyo, Japan",
+      "d1": "Stay at Shinjuku District",
+      "d2": "18 Nov - 23 Nov",
+      "d3": "₹16,000 per night",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Restaurant_N%C3%A4sinneula.jpg/640px-Restaurant_N%C3%A4sinneula.jpg"
+    },
+    {
+      "title": "Rome, Italy",
+      "d1": "Stay at Colosseum View",
+      "d2": "3 Oct - 8 Oct",
+      "d3": "₹13,000 per night",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe1sKEWLVjfo2dEdi3qi469u8G33w-Owgysw&s"
+    },
+    {
+      "title": "Cairo, Egypt",
+      "d1": "Stay near the Pyramids",
+      "d2": "22 May - 27 May",
+      "d3": "₹9,500 per night",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjZWxF857wSQn-JXkXtibHxZpX4xmyj1p6tA&s"
+    },
+    {
+      "title": "Barcelona, Spain",
+      "d1": "Stay at Sagrada Familia Area",
+      "d2": "14 Jun - 19 Jun",
+      "d3": "₹11,000 per night",
+    "image": "https://mortonfoodservice.com/content/uploads/restaurant-patio-morton.png"
+    },
+    {
+      "title": "Istanbul, Turkey",
+      "d1": "Stay at Blue Mosque View",
+      "d2": "25 Jul - 30 Jul",
+      "d3": "₹10,500 per night",
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/15/1d/94/shang-palace-interiors.jpg?w=600&h=400&s=1"
+
+    },
+    {
+      "title": "Singapore",
+      "d1": "Stay at Marina Bay Sands",
+      "d2": "5 Aug - 10 Aug",
+      "d3": "₹17,000 per night",
+      "image": "https://d4t7t8y8xqo0t.cloudfront.net/eazymedia/restaurant%2F696751%2Frestaurant420240710072239.jpg"
+
+    },
+    {
+      "title": "Moscow, Russia",
+      "d1": "Stay at Red Square",
+      "d2": "12 Oct - 17 Oct",
+      "d3": "₹12,000 per night",
+      "image": "https://cdn.oliverbonacininetwork.com/uploads/sites/42/2023/11/DSC5084-640x427.jpg"
+    },
+    {
+      "title": "Los Angeles, USA",
+      "d1": "Stay at Hollywood Boulevard",
+      "d2": "28 Mar - 2 Apr",
+      "d3": "₹21,000 per night",
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/b0/b8/60/suite-hotels.jpg?w=1200&h=-1&s=1"
+    },
+    {
+      "title": "Amsterdam, Netherlands",
+      "d1": "Stay at Canal View Hotel",
+      "d2": "9 Apr - 14 Apr",
+      "d3": "₹13,500 per night",
+      "image":"https://images.oyoroomscdn.com/uploads/hotel_image/20004/small/tjolwupcmope.jpg"
+    },
+    {
+      "title": "Rio de Janeiro, Brazil",
+      "d1": "Stay at Copacabana Beach",
+      "d2": "18 Feb - 23 Feb",
+      "d3": "₹11,500 per night",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/1c/11/aa/67/lemon-tree-hotel-east.jpg"
+    },
+    {
+      "title": "Berlin, Germany",
+      "d1": "Stay near Brandenburg Gate",
+      "d2": "6 May - 11 May",
+      "d3": "₹10,200 per night",
+      "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/531293504.jpg?k=f64b3f34fafee4112c85ba6c020dad01df8205be38a5b40e0336c59dec752c68&o=&hp=1"
+    },
+    {
+      "title": "Santorini, Greece",
+      "d1": "Stay at Cliffside Villas",
+      "d2": "15 Sep - 20 Sep",
+      "d3": "₹14,800 per night",
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/88/be/20/caption.jpg?w=300&h=300&s=1"
+    },
+    {
+      "title": "Seoul, South Korea",
+      "d1": "Stay at Myeongdong District",
+      "d2": "29 Dec - 3 Jan",
+      "d3": "₹13,200 per night",
+      "image": "https://images.oyoroomscdn.com/uploads/hotel_image/249051/medium/mqhwtammotnd.jpg"
+    }
+  ]
+  
